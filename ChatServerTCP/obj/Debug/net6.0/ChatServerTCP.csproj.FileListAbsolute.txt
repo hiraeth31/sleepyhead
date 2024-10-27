@@ -1,0 +1,14 @@
+C:\Users\Nosferatu\source\repos\ChatServerTCP\ChatServerTCP\obj\Debug\net6.0\ChatServerTCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nosferatu\source\repos\ChatServerTCP\ChatServerTCP\obj\Debug\net6.0\ChatServerTCP.AssemblyInfoInputs.cache
+C:\Users\Nosferatu\source\repos\ChatServerTCP\ChatServerTCP\obj\Debug\net6.0\ChatServerTCP.AssemblyInfo.cs
+C:\Users\Nosferatu\source\repos\ChatServerTCP\ChatServerTCP\obj\Debug\net6.0\ChatServerTCP.csproj.CoreCompileInputs.cache
+C:\Users\Nosferatu\source\repos\ChatServerTCP\ChatServerTCP\bin\Debug\net6.0\ChatServerTCP.exe
+C:\Users\Nosferatu\source\repos\ChatServerTCP\ChatServerTCP\bin\Debug\net6.0\ChatServerTCP.deps.json
+C:\Users\Nosferatu\source\repos\ChatServerTCP\ChatServerTCP\bin\Debug\net6.0\ChatServerTCP.runtimeconfig.json
+C:\Users\Nosferatu\source\repos\ChatServerTCP\ChatServerTCP\bin\Debug\net6.0\ChatServerTCP.dll
+C:\Users\Nosferatu\source\repos\ChatServerTCP\ChatServerTCP\bin\Debug\net6.0\ChatServerTCP.pdb
+C:\Users\Nosferatu\source\repos\ChatServerTCP\ChatServerTCP\obj\Debug\net6.0\ChatServerTCP.dll
+C:\Users\Nosferatu\source\repos\ChatServerTCP\ChatServerTCP\obj\Debug\net6.0\refint\ChatServerTCP.dll
+C:\Users\Nosferatu\source\repos\ChatServerTCP\ChatServerTCP\obj\Debug\net6.0\ChatServerTCP.pdb
+C:\Users\Nosferatu\source\repos\ChatServerTCP\ChatServerTCP\obj\Debug\net6.0\ChatServerTCP.genruntimeconfig.cache
+C:\Users\Nosferatu\source\repos\ChatServerTCP\ChatServerTCP\obj\Debug\net6.0\ref\ChatServerTCP.dll
