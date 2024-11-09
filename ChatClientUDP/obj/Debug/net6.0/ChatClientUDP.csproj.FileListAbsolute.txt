@@ -1,0 +1,14 @@
+C:\Users\Nosferatu\source\repos\ChatServerTCP\ChatClientUDP\bin\Debug\net6.0\ChatClientUDP.exe
+C:\Users\Nosferatu\source\repos\ChatServerTCP\ChatClientUDP\bin\Debug\net6.0\ChatClientUDP.deps.json
+C:\Users\Nosferatu\source\repos\ChatServerTCP\ChatClientUDP\bin\Debug\net6.0\ChatClientUDP.runtimeconfig.json
+C:\Users\Nosferatu\source\repos\ChatServerTCP\ChatClientUDP\bin\Debug\net6.0\ChatClientUDP.dll
+C:\Users\Nosferatu\source\repos\ChatServerTCP\ChatClientUDP\bin\Debug\net6.0\ChatClientUDP.pdb
+C:\Users\Nosferatu\source\repos\ChatServerTCP\ChatClientUDP\obj\Debug\net6.0\ChatClientUDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nosferatu\source\repos\ChatServerTCP\ChatClientUDP\obj\Debug\net6.0\ChatClientUDP.AssemblyInfoInputs.cache
+C:\Users\Nosferatu\source\repos\ChatServerTCP\ChatClientUDP\obj\Debug\net6.0\ChatClientUDP.AssemblyInfo.cs
+C:\Users\Nosferatu\source\repos\ChatServerTCP\ChatClientUDP\obj\Debug\net6.0\ChatClientUDP.csproj.CoreCompileInputs.cache
+C:\Users\Nosferatu\source\repos\ChatServerTCP\ChatClientUDP\obj\Debug\net6.0\ChatClientUDP.dll
+C:\Users\Nosferatu\source\repos\ChatServerTCP\ChatClientUDP\obj\Debug\net6.0\refint\ChatClientUDP.dll
+C:\Users\Nosferatu\source\repos\ChatServerTCP\ChatClientUDP\obj\Debug\net6.0\ChatClientUDP.pdb
+C:\Users\Nosferatu\source\repos\ChatServerTCP\ChatClientUDP\obj\Debug\net6.0\ChatClientUDP.genruntimeconfig.cache
+C:\Users\Nosferatu\source\repos\ChatServerTCP\ChatClientUDP\obj\Debug\net6.0\ref\ChatClientUDP.dll
