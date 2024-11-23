@@ -1,0 +1,15 @@
+C:\Users\Nosferatu\source\repos\ChatServerTCP\BroadcastServerUDP\bin\Debug\net8.0\BroadcastServerUDP.exe
+C:\Users\Nosferatu\source\repos\ChatServerTCP\BroadcastServerUDP\bin\Debug\net8.0\BroadcastServerUDP.deps.json
+C:\Users\Nosferatu\source\repos\ChatServerTCP\BroadcastServerUDP\bin\Debug\net8.0\BroadcastServerUDP.runtimeconfig.json
+C:\Users\Nosferatu\source\repos\ChatServerTCP\BroadcastServerUDP\bin\Debug\net8.0\BroadcastServerUDP.dll
+C:\Users\Nosferatu\source\repos\ChatServerTCP\BroadcastServerUDP\bin\Debug\net8.0\BroadcastServerUDP.pdb
+C:\Users\Nosferatu\source\repos\ChatServerTCP\BroadcastServerUDP\obj\Debug\net8.0\BroadcastServerUDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nosferatu\source\repos\ChatServerTCP\BroadcastServerUDP\obj\Debug\net8.0\BroadcastServerUDP.AssemblyInfoInputs.cache
+C:\Users\Nosferatu\source\repos\ChatServerTCP\BroadcastServerUDP\obj\Debug\net8.0\BroadcastServerUDP.AssemblyInfo.cs
+C:\Users\Nosferatu\source\repos\ChatServerTCP\BroadcastServerUDP\obj\Debug\net8.0\BroadcastServerUDP.csproj.CoreCompileInputs.cache
+C:\Users\Nosferatu\source\repos\ChatServerTCP\BroadcastServerUDP\obj\Debug\net8.0\BroadcastServerUDP.sourcelink.json
+C:\Users\Nosferatu\source\repos\ChatServerTCP\BroadcastServerUDP\obj\Debug\net8.0\BroadcastServerUDP.dll
+C:\Users\Nosferatu\source\repos\ChatServerTCP\BroadcastServerUDP\obj\Debug\net8.0\refint\BroadcastServerUDP.dll
+C:\Users\Nosferatu\source\repos\ChatServerTCP\BroadcastServerUDP\obj\Debug\net8.0\BroadcastServerUDP.pdb
+C:\Users\Nosferatu\source\repos\ChatServerTCP\BroadcastServerUDP\obj\Debug\net8.0\BroadcastServerUDP.genruntimeconfig.cache
+C:\Users\Nosferatu\source\repos\ChatServerTCP\BroadcastServerUDP\obj\Debug\net8.0\ref\BroadcastServerUDP.dll

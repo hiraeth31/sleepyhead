@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatClientUDP", "ChatClient
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatServerUDP", "ChatServerUDP\ChatServerUDP.csproj", "{453235AB-4692-4E9B-95EC-1865E187266E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BroadcastServerUDP", "BroadcastServerUDP\BroadcastServerUDP.csproj", "{A48632E7-2069-476F-8DBA-50073E6291FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BroadcastClientUDP", "BroadcastClientUDP\BroadcastClientUDP.csproj", "{237B53FB-2CF1-4455-99F6-C4435FE93D0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{453235AB-4692-4E9B-95EC-1865E187266E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{453235AB-4692-4E9B-95EC-1865E187266E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{453235AB-4692-4E9B-95EC-1865E187266E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A48632E7-2069-476F-8DBA-50073E6291FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A48632E7-2069-476F-8DBA-50073E6291FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A48632E7-2069-476F-8DBA-50073E6291FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A48632E7-2069-476F-8DBA-50073E6291FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{237B53FB-2CF1-4455-99F6-C4435FE93D0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{237B53FB-2CF1-4455-99F6-C4435FE93D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{237B53FB-2CF1-4455-99F6-C4435FE93D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{237B53FB-2CF1-4455-99F6-C4435FE93D0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

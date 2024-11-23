@@ -1,0 +1,15 @@
+C:\Users\Nosferatu\source\repos\ChatServerTCP\BroadcastClientUDP\bin\Debug\net8.0\BroadcastClientUDP.exe
+C:\Users\Nosferatu\source\repos\ChatServerTCP\BroadcastClientUDP\bin\Debug\net8.0\BroadcastClientUDP.deps.json
+C:\Users\Nosferatu\source\repos\ChatServerTCP\BroadcastClientUDP\bin\Debug\net8.0\BroadcastClientUDP.runtimeconfig.json
+C:\Users\Nosferatu\source\repos\ChatServerTCP\BroadcastClientUDP\bin\Debug\net8.0\BroadcastClientUDP.dll
+C:\Users\Nosferatu\source\repos\ChatServerTCP\BroadcastClientUDP\bin\Debug\net8.0\BroadcastClientUDP.pdb
+C:\Users\Nosferatu\source\repos\ChatServerTCP\BroadcastClientUDP\obj\Debug\net8.0\BroadcastClientUDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nosferatu\source\repos\ChatServerTCP\BroadcastClientUDP\obj\Debug\net8.0\BroadcastClientUDP.AssemblyInfoInputs.cache
+C:\Users\Nosferatu\source\repos\ChatServerTCP\BroadcastClientUDP\obj\Debug\net8.0\BroadcastClientUDP.AssemblyInfo.cs
+C:\Users\Nosferatu\source\repos\ChatServerTCP\BroadcastClientUDP\obj\Debug\net8.0\BroadcastClientUDP.csproj.CoreCompileInputs.cache
+C:\Users\Nosferatu\source\repos\ChatServerTCP\BroadcastClientUDP\obj\Debug\net8.0\BroadcastClientUDP.sourcelink.json
+C:\Users\Nosferatu\source\repos\ChatServerTCP\BroadcastClientUDP\obj\Debug\net8.0\BroadcastClientUDP.dll
+C:\Users\Nosferatu\source\repos\ChatServerTCP\BroadcastClientUDP\obj\Debug\net8.0\refint\BroadcastClientUDP.dll
+C:\Users\Nosferatu\source\repos\ChatServerTCP\BroadcastClientUDP\obj\Debug\net8.0\BroadcastClientUDP.pdb
+C:\Users\Nosferatu\source\repos\ChatServerTCP\BroadcastClientUDP\obj\Debug\net8.0\BroadcastClientUDP.genruntimeconfig.cache
+C:\Users\Nosferatu\source\repos\ChatServerTCP\BroadcastClientUDP\obj\Debug\net8.0\ref\BroadcastClientUDP.dll

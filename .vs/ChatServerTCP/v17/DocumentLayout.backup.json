@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nosferatu\\source\\repos\\ChatServerTCP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A48632E7-2069-476F-8DBA-50073E6291FF}|BroadcastServerUDP\\BroadcastServerUDP.csproj|c:\\users\\nosferatu\\source\\repos\\chatservertcp\\broadcastserverudp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A48632E7-2069-476F-8DBA-50073E6291FF}|BroadcastServerUDP\\BroadcastServerUDP.csproj|solutionrelative:broadcastserverudp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237B53FB-2CF1-4455-99F6-C4435FE93D0A}|BroadcastClientUDP\\BroadcastClientUDP.csproj|c:\\users\\nosferatu\\source\\repos\\chatservertcp\\broadcastclientudp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237B53FB-2CF1-4455-99F6-C4435FE93D0A}|BroadcastClientUDP\\BroadcastClientUDP.csproj|solutionrelative:broadcastclientudp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nosferatu\\source\\repos\\ChatServerTCP\\BroadcastServerUDP\\Program.cs",
+              "RelativeDocumentMoniker": "BroadcastServerUDP\\Program.cs",
+              "ToolTip": "C:\\Users\\Nosferatu\\source\\repos\\ChatServerTCP\\BroadcastServerUDP\\Program.cs*",
+              "RelativeToolTip": "BroadcastServerUDP\\Program.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowCUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T01:57:07.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nosferatu\\source\\repos\\ChatServerTCP\\BroadcastClientUDP\\Program.cs",
+              "RelativeDocumentMoniker": "BroadcastClientUDP\\Program.cs",
+              "ToolTip": "C:\\Users\\Nosferatu\\source\\repos\\ChatServerTCP\\BroadcastClientUDP\\Program.cs",
+              "RelativeToolTip": "BroadcastClientUDP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T01:57:07.148Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
