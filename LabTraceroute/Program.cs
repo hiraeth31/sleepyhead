@@ -82,7 +82,6 @@ public class Traceroute
             return;
         }
 
-
         if (ip_hdr.ip_p == 1) // Protocol ICMP = 1
         {
             byte[] icmp_data = new byte[bytes - ip_header_len];
@@ -93,18 +92,17 @@ public class Traceroute
             var icmp_hdr = (IcmpHeader)ByteArrayToStructure(icmp_data, typeof(IcmpHeader));
 
 
-            if (reply_type == 0)
-            {
-                // Это ответ на наш запрос
-                Console.WriteLine($"{ttl}: Reply from: {ip}  bytes:{bytes} time:{GetTimestampDiff(timestamp, GetTickCount())}ms");
-            }
-            else if (reply_type == 11)
+            if (reply_type == 11)
             {
                 // Время истекло
                 var ip_addr_from_reply = ((IPEndPoint)remote_ep).Address;
-                Console.WriteLine($"{ttl}: Hop: {ip_addr_from_reply}  Time exceeded");
-
+                Console.WriteLine($"{ttl}: Hop: {ip_addr_from_reply}");
                 return;
+            }
+            else if (reply_type == 0)
+            {
+                // Это ответ на наш запрос
+                Console.WriteLine($"{ttl}: Reply from: {ip}  bytes:{bytes} time:{GetTimestampDiff(timestamp, GetTickCount())}ms");
             }
 
             else
@@ -234,7 +232,7 @@ public class Traceroute
                     {
                         if (e.SocketErrorCode == SocketError.TimedOut)
                         {
-                            Console.WriteLine($"{ttl}: * Request timed out.");
+                            Console.WriteLine($"{ttl}: *");
                             continue;
                         }
                         else
