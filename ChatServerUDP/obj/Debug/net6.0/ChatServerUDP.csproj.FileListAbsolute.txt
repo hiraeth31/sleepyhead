@@ -12,3 +12,4 @@ C:\Users\Nosferatu\source\repos\ChatServerTCP\ChatServerUDP\obj\Debug\net6.0\ref
 C:\Users\Nosferatu\source\repos\ChatServerTCP\ChatServerUDP\obj\Debug\net6.0\ChatServerUDP.pdb
 C:\Users\Nosferatu\source\repos\ChatServerTCP\ChatServerUDP\obj\Debug\net6.0\ChatServerUDP.genruntimeconfig.cache
 C:\Users\Nosferatu\source\repos\ChatServerTCP\ChatServerUDP\obj\Debug\net6.0\ref\ChatServerUDP.dll
+C:\Users\Nosferatu\source\repos\ChatServerTCP\ChatServerUDP\obj\Debug\net6.0\ChatServerUDP.sourcelink.json

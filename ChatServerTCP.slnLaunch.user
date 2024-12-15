@@ -3,11 +3,7 @@
     "Name": "Новый профиль",
     "Projects": [
       {
-        "Path": "BroadcastServerUDP\\BroadcastServerUDP.csproj",
-        "Action": "Start"
-      },
-      {
-        "Path": "BroadcastClientUDP\\BroadcastClientUDP.csproj",
+        "Path": "LabTraceroute\\LabTraceroute.csproj",
         "Action": "Start"
       }
     ]

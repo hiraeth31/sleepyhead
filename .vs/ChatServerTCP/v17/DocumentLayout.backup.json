@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Nosferatu\\source\\repos\\ChatServerTCP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A48632E7-2069-476F-8DBA-50073E6291FF}|BroadcastServerUDP\\BroadcastServerUDP.csproj|c:\\users\\nosferatu\\source\\repos\\chatservertcp\\broadcastserverudp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A48632E7-2069-476F-8DBA-50073E6291FF}|BroadcastServerUDP\\BroadcastServerUDP.csproj|solutionrelative:broadcastserverudp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B963137B-B1F6-4A41-9C9F-598A3C83548D}|LabTraceroute\\LabTraceroute.csproj|c:\\users\\nosferatu\\source\\repos\\chatservertcp\\labtraceroute\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B963137B-B1F6-4A41-9C9F-598A3C83548D}|LabTraceroute\\LabTraceroute.csproj|solutionrelative:labtraceroute\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{237B53FB-2CF1-4455-99F6-C4435FE93D0A}|BroadcastClientUDP\\BroadcastClientUDP.csproj|c:\\users\\nosferatu\\source\\repos\\chatservertcp\\broadcastclientudp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{237B53FB-2CF1-4455-99F6-C4435FE93D0A}|BroadcastClientUDP\\BroadcastClientUDP.csproj|solutionrelative:broadcastclientudp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48632E7-2069-476F-8DBA-50073E6291FF}|BroadcastServerUDP\\BroadcastServerUDP.csproj|c:\\users\\nosferatu\\source\\repos\\chatservertcp\\broadcastserverudp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A48632E7-2069-476F-8DBA-50073E6291FF}|BroadcastServerUDP\\BroadcastServerUDP.csproj|solutionrelative:broadcastserverudp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,14 +28,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nosferatu\\source\\repos\\ChatServerTCP\\LabTraceroute\\Program.cs",
+              "RelativeDocumentMoniker": "LabTraceroute\\Program.cs",
+              "ToolTip": "C:\\Users\\Nosferatu\\source\\repos\\ChatServerTCP\\LabTraceroute\\Program.cs",
+              "RelativeToolTip": "LabTraceroute\\Program.cs",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAmwP4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T08:54:32.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Nosferatu\\source\\repos\\ChatServerTCP\\BroadcastServerUDP\\Program.cs",
               "RelativeDocumentMoniker": "BroadcastServerUDP\\Program.cs",
-              "ToolTip": "C:\\Users\\Nosferatu\\source\\repos\\ChatServerTCP\\BroadcastServerUDP\\Program.cs*",
-              "RelativeToolTip": "BroadcastServerUDP\\Program.cs*",
-              "ViewState": "AgIAABEAAAAAAAAAAAAowCUAAAAZAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Nosferatu\\source\\repos\\ChatServerTCP\\BroadcastServerUDP\\Program.cs",
+              "RelativeToolTip": "BroadcastServerUDP\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T01:57:07.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T01:57:07.749Z"
             },
             {
               "$type": "Document",
@@ -41,7 +57,7 @@
               "RelativeDocumentMoniker": "BroadcastClientUDP\\Program.cs",
               "ToolTip": "C:\\Users\\Nosferatu\\source\\repos\\ChatServerTCP\\BroadcastClientUDP\\Program.cs",
               "RelativeToolTip": "BroadcastClientUDP\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwAkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-23T01:57:07.148Z",
               "EditorCaption": ""

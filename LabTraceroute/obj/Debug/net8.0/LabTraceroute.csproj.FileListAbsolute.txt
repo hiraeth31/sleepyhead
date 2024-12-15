@@ -1,0 +1,15 @@
+C:\Users\Nosferatu\source\repos\ChatServerTCP\LabTraceroute\obj\Debug\net8.0\LabTraceroute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nosferatu\source\repos\ChatServerTCP\LabTraceroute\obj\Debug\net8.0\LabTraceroute.AssemblyInfoInputs.cache
+C:\Users\Nosferatu\source\repos\ChatServerTCP\LabTraceroute\obj\Debug\net8.0\LabTraceroute.AssemblyInfo.cs
+C:\Users\Nosferatu\source\repos\ChatServerTCP\LabTraceroute\obj\Debug\net8.0\LabTraceroute.csproj.CoreCompileInputs.cache
+C:\Users\Nosferatu\source\repos\ChatServerTCP\LabTraceroute\obj\Debug\net8.0\LabTraceroute.sourcelink.json
+C:\Users\Nosferatu\source\repos\ChatServerTCP\LabTraceroute\bin\Debug\net8.0\LabTraceroute.exe
+C:\Users\Nosferatu\source\repos\ChatServerTCP\LabTraceroute\bin\Debug\net8.0\LabTraceroute.deps.json
+C:\Users\Nosferatu\source\repos\ChatServerTCP\LabTraceroute\bin\Debug\net8.0\LabTraceroute.runtimeconfig.json
+C:\Users\Nosferatu\source\repos\ChatServerTCP\LabTraceroute\bin\Debug\net8.0\LabTraceroute.dll
+C:\Users\Nosferatu\source\repos\ChatServerTCP\LabTraceroute\bin\Debug\net8.0\LabTraceroute.pdb
+C:\Users\Nosferatu\source\repos\ChatServerTCP\LabTraceroute\obj\Debug\net8.0\LabTraceroute.dll
+C:\Users\Nosferatu\source\repos\ChatServerTCP\LabTraceroute\obj\Debug\net8.0\refint\LabTraceroute.dll
+C:\Users\Nosferatu\source\repos\ChatServerTCP\LabTraceroute\obj\Debug\net8.0\LabTraceroute.pdb
+C:\Users\Nosferatu\source\repos\ChatServerTCP\LabTraceroute\obj\Debug\net8.0\LabTraceroute.genruntimeconfig.cache
+C:\Users\Nosferatu\source\repos\ChatServerTCP\LabTraceroute\obj\Debug\net8.0\ref\LabTraceroute.dll

@@ -12,3 +12,4 @@ C:\Users\Nosferatu\source\repos\ChatServerTCP\ChatClientTCP\obj\Debug\net6.0\ref
 C:\Users\Nosferatu\source\repos\ChatServerTCP\ChatClientTCP\obj\Debug\net6.0\ChatClientTCP.pdb
 C:\Users\Nosferatu\source\repos\ChatServerTCP\ChatClientTCP\obj\Debug\net6.0\ChatClientTCP.genruntimeconfig.cache
 C:\Users\Nosferatu\source\repos\ChatServerTCP\ChatClientTCP\obj\Debug\net6.0\ref\ChatClientTCP.dll
+C:\Users\Nosferatu\source\repos\ChatServerTCP\ChatClientTCP\obj\Debug\net6.0\ChatClientTCP.sourcelink.json

@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BroadcastServerUDP", "Broad
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BroadcastClientUDP", "BroadcastClientUDP\BroadcastClientUDP.csproj", "{237B53FB-2CF1-4455-99F6-C4435FE93D0A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabTraceroute", "LabTraceroute\LabTraceroute.csproj", "{B963137B-B1F6-4A41-9C9F-598A3C83548D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{237B53FB-2CF1-4455-99F6-C4435FE93D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{237B53FB-2CF1-4455-99F6-C4435FE93D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{237B53FB-2CF1-4455-99F6-C4435FE93D0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B963137B-B1F6-4A41-9C9F-598A3C83548D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B963137B-B1F6-4A41-9C9F-598A3C83548D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B963137B-B1F6-4A41-9C9F-598A3C83548D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B963137B-B1F6-4A41-9C9F-598A3C83548D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
